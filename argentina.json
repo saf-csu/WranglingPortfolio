@@ -1,0 +1,27 @@
+{
+  "dataset_description": {
+    "dataset_name": "Argentina Demographics",
+    "columns": [
+      {
+        "column_name": "Index",
+        "data_type": "Numeric",
+        "description": "Index of entries in CSV"
+      },
+      {
+        "column_name": "Year",
+        "data_type": "Year",
+        "description": "The year of the data (YYYY format)."
+      },
+      {
+        "column_name": "Primary enrollment",
+        "data_type": "Numeric",
+        "description": "Primary school enrollment"
+      },
+      {
+        "column_name": "GDP",
+        "data_type": "Numeric",
+        "description": "Annual GDP as measured in US Dollars"
+      }
+    ]
+  }
+}
